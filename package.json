@@ -1,8 +1,8 @@
 {
   "name": "owlint",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A configurable, command line OWL file linter.",
-  "main": "lib/main.js",
+  "bin": "bin/owlint",
   "dependencies": {
     "exec": "^0.1.1"
   },
