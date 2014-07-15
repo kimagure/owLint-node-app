@@ -1,0 +1,30 @@
+{
+  "name": "owlint",
+  "version": "0.0.0",
+  "description": "A configurable, command line OWL file linter.",
+  "main": "lib/main.js",
+  "dependencies": {
+    "exec": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Samangan/owLint-node-app.git"
+  },
+  "keywords": [
+    "owlint",
+    "linter",
+    "owl",
+    "ontology", 
+    "tool"
+  ],
+  "author": "Harry Hull <harry.hull1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samangan/owLint-node-app/issues"
+  },
+  "homepage": "https://github.com/Samangan/owLint-node-app"
+}
